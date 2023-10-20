@@ -8,3 +8,6 @@
 #### 2) run `npm init` 
 #### 3) run `npm migrate ` to run a script to create a database
 #### 4) run `npm start` 
+
+## API Documentation Design
+#### https://documenter.getpostman.com/view/23811769/2s9YRB3Cgb
