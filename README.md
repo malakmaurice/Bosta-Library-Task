@@ -6,5 +6,5 @@
 ## To run the app
 #### 1) download the rep
 #### 2) run `npm init` 
-#### 3) run `npm migrate' to run a script to create a database
+#### 3) run `npm migrate` to run a script to create a database
 #### 4) run `npm start` 
